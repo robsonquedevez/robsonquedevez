@@ -13,6 +13,6 @@ Full Stack Developer
 - React Native
 - Javascript
 
-_Show all projects_
+_View all projects_
 
-https://github.com/robsonquedevez?tab=repositories
+[Projects](https://github.com/robsonquedevez?tab=repositories)
