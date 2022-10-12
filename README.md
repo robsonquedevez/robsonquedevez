@@ -11,17 +11,19 @@ Full Stack Developer
 - ReactJS
 - NodeJS
 - React Native
-- Express
 - Typescript
+- Express
 - Jest
+- Vitest
 - Styled Components
 - TypeORM
+- SQL and NoSQL
 
 ### What am I currently studying
 
 - NextJS
-- Jest
-- GraphiQL
+- GraphQL
+- Storybook
 
 _View all projects_
 
