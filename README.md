@@ -25,6 +25,4 @@ Full Stack Developer
 - GraphQL
 - Storybook
 
-_View all projects_
-
-[Projects](https://github.com/robsonquedevez?tab=repositories)
+_View all projects [here](https://github.com/robsonquedevez?tab=repositories)_
