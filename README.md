@@ -20,6 +20,8 @@ Full Stack Developer
 - SQL and NoSQL
 - Material UI
 - Axios
+- Yup
+- Leaflet
 
 ### What am I currently studying
 
