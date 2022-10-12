@@ -18,6 +18,8 @@ Full Stack Developer
 - Styled Components
 - TypeORM
 - SQL and NoSQL
+- Material UI
+- Axios
 
 ### What am I currently studying
 
