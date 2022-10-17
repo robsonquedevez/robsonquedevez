@@ -22,11 +22,13 @@ Full Stack Developer
 - Axios
 - Yup
 - Leaflet
+- Tailwind CSS
 
 ### What am I currently studying
 
 - NextJS
 - GraphQL
 - Storybook
+- RadixUI
 
 _View all projects [here](https://github.com/robsonquedevez?tab=repositories)_
