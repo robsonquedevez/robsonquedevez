@@ -1,10 +1,8 @@
-### Hi there 👋
-
 # I'm Robson Quedevez
 
 Full Stack Developer
 
-[Linkedin](https://www.linkedin.com/in/robson-quedevez-de-alcantara/)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-quedevez-de-alcantara/)
 
 ### What I have used most often nowadays
 
