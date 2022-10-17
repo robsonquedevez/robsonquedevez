@@ -8,12 +8,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-robson.quedevez@hotmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson.quedevez@hotmail.com)](mailto:robson.quedevez@hotmail.com)
 
 
-### What I have used most often nowadays
+### Technologies i work
 
+- Javascript\Typescript
 - ReactJS
 - NodeJS
 - React Native
-- Typescript
 - Express
 - Jest
 - Vitest
@@ -25,8 +25,9 @@
 - Yup
 - Leaflet
 - Tailwind CSS
+- Github\Gitflow
 
-### What am I currently studying
+### What am i currently studying
 
 - NextJS
 - GraphQL
