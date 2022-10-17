@@ -1,10 +1,12 @@
-# I'm Robson Quedevez
+# Robson Quedevez
 
-Full Stack Developer
+ Full Stack Developer
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-quedevez-de-alcantara/)
 
-[![Gmail Badge](https://img.shields.io/badge/robson.quedevez@hotmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson.quedevez@hotmail.com)](mailto:robson.quedevez@hotmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Robson_Quedevez-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/robson-quedevez-de-alcantara/)
+
+[![Gmail Badge](https://img.shields.io/badge/-robson.quedevez@hotmail.com-0077B5?style=flat-square&logo=Gmail&logoColor=white&link=mailto:robson.quedevez@hotmail.com)](mailto:robson.quedevez@hotmail.com)
+
 
 ### What I have used most often nowadays
 
