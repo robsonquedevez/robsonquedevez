@@ -11,14 +11,15 @@
 ### Technologies i work
 
 - Javascript\Typescript
-- ReactJS
-- NodeJS
+- React
+- Node.js
 - React Native
 - Express
 - Jest
 - Vitest
 - Styled Components
 - TypeORM
+- Knex.js
 - SQL and NoSQL
 - Material UI
 - Axios
