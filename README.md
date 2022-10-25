@@ -27,11 +27,11 @@
 - Leaflet
 - Tailwind CSS
 - Github\Gitflow
+- GraphQL
 
 ### What am i currently studying
 
 - NextJS
-- GraphQL
 - Storybook
 - RadixUI
 
