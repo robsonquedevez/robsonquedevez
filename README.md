@@ -22,12 +22,14 @@
 - Knex.js
 - SQL and NoSQL
 - Material UI
+- Chakra UI
 - Axios
 - Yup
 - Leaflet
 - Tailwind CSS
 - Github\Gitflow
 - GraphQL
+- Apollo Server\Client
 
 ### What am i currently studying
 
