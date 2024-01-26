@@ -30,10 +30,11 @@
 - Github\Gitflow
 - GraphQL
 - Apollo Server\Client
+- NextJS
+- Stitches
 
 ### What am i currently studying
 
-- NextJS
 - Storybook
 - RadixUI
 
