@@ -10,16 +10,16 @@
 
 ### Technologies i work
 
-- Javascript\Typescript
-- React
-- Node.js
-- React Native
+- Javascript
+- Typescript
+- ReactJS
+- NodeJS
 - Express
 - Jest
 - Vitest
 - Styled Components
 - TypeORM
-- Knex.js
+- Knex
 - SQL and NoSQL
 - Material UI
 - Chakra UI
@@ -32,10 +32,5 @@
 - Apollo Server\Client
 - NextJS
 - Stitches
-
-### What am i currently studying
-
-- Storybook
-- RadixUI
 
 _View all projects [here](https://github.com/robsonquedevez?tab=repositories)_
